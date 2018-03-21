@@ -13,11 +13,11 @@ ax2+by+c=0
 ```
 2) Выписываем коэффициенты __a, b, c__.
 3) Для работы с методом требуется его импортировать:
-```
+```python
 from quadratic_equation import get_roots
 ```
 4) Вызываем метод:
-```
+```python
 root1, root2 = get_roots(1, -2, 1)
 ```
 
